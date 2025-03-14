@@ -1,5 +1,7 @@
+import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
 import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
